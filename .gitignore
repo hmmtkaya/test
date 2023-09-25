@@ -1,0 +1,4 @@
+test2.txt
+
+file/*
+!file/test2.pdf
